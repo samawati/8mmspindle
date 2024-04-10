@@ -5,4 +5,6 @@ The CAD was made using Solvespace for simplicity, https://solvespace.com/index.p
 
 ![alt text](https://github.com/samawati/8mmspindle/blob/main/erc11a%20holder.png?raw=true)
 
-All rights belong to the designer of the part, I just made it as a learning exercise while exploring Solvespace as an alternative minimalist CAD.
+All rights belong to the designer of the part.
+
+I just re-designed it in Solvespace as a learning exercise while exploring an alternative minimalist CAD.
